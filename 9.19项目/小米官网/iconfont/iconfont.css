@@ -1,0 +1,140 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1503061259056'); /* IE9*/
+  src: url('iconfont.eot?t=1503061259056#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1503061259056') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1503061259056') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1503061259056#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-letter-f-outline:before { content: "\e677"; }
+
+.icon-liwu:before { content: "\e862"; }
+
+.icon-zuo:before { 
+  content: "\e636";
+  display: block;
+  color: #aaaaac;
+  position: absolute;
+  font-size: 50px; 
+  margin-top: 182px;
+  margin-left: 222px;
+
+
+
+
+}
+
+
+
+.icon-you:before { 
+  content: "\e637";
+  display: block;
+  color: #aaaaac;
+  position: absolute;
+  font-size: 50px; 
+  margin-top: 185px;
+  margin-left:1188px;
+
+
+  }
+
+.icon-15:before { 
+  content: "\e639";
+  display: block;
+  float: left;
+  font-size: 24px;
+  margin-left: 58px;
+
+   }
+
+.icon-sim:before { content: "\e625"; }
+
+.icon-xuangoushouji:before { content: "\e601";
+font-size: 18px; }
+
+.icon-c:before { content: "\e66b"; }
+
+.icon-sousuo:before { 
+  content: "\e616";
+  display: block;
+  font-size: 20px;
+
+}
+
+.icon-weixiu1:before { 
+  content: "\e62f";
+  display: block;
+  float: left;
+  font-size: 28px;
+  margin-left: 58px;
+   }
+
+.icon-gouwuche:before { content: "\e6be"; 
+ }
+
+.icon-gengduo:before { 
+  content: "\e60b";
+  display: block;
+   
+  font-size: 50px;
+  color: #FF6700;
+  margin-left: 151px;
+   
+
+
+   }
+
+.icon-icon-test:before { 
+  content: "\e627";
+  display: block;
+  
+  font-size: 20px;
+  color: #616161;
+   
+  float: left;
+  padding-left: 54px;
+
+
+   }
+
+.icon-gift:before { 
+  content: "\e600";
+  display: block;
+  
+  font-size: 20px;
+  color: #616161;
+   
+  float: left;
+  padding-left: 54px;
+}
+
+.icon-dingwei:before { 
+  content: "\e62e"; 
+  display: block;
+  
+  font-size: 20px;
+  color: #616161;
+   
+  float: left;
+  padding-left: 54px;
+}
+
+.icon-duihuakuang:before { content: "\e61c";
+float: left; 
+font-size: 12px;
+margin-top: 9px;
+margin-left: 8px; }
+
+.icon-yijiuhuanxin:before { content: "\e60f"; }
+
+.icon-huafeichongzhi:before { content: "\e610"; }
+
